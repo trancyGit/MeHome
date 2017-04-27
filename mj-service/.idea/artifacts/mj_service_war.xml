@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mj-service:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="shihou_kpl_guess.war">
+      <element id="artifact" artifact-name="mj-service:war exploded" />
+    </root>
+  </artifact>
+</component>

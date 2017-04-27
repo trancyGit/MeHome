@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mj-serivce" />
+        <module name="mj-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="mj-serivce" target="1.5" />
+      <module name="mj-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
